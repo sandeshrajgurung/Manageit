@@ -1,0 +1,25 @@
+.sidebar li a{
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    color: rgb(17 24 39);
+    border-radius: 0.5rem;
+
+}
+.list_head th{
+    padding: 12px 24px;
+    text-align: left;
+    font-size: 13px;
+    line-height: 16px;
+    font-weight: 500;
+    color: white;
+    letter-spacing: 0.05rem;
+    text-transform: uppercase;
+}
+
+.sidebar li:hover .material-icons {
+    color: white !important;
+}

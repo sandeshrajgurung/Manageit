@@ -1,0 +1,22 @@
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+.right_nav{
+    font-family: 'Roboto', sans-serif;
+ 
+}
+.btn_btn1{
+    background-color: #FFA500;
+    color: white;
+    border-radius: 45px;
+    border: none;
+    height: 40px;
+    min-width: 130px;
+    font-size: 14px;
+    padding: 8px 16px;
+    font-weight: 300;
+    text-align: center;
+}
